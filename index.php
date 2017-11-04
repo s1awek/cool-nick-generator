@@ -21,7 +21,6 @@
   <title>Random nick generator</title>
   <meta name="description" content="Generate cool random nickname">
   <meta name="author" content="S1awek">
-
   <link rel="stylesheet" href="css/style.css?v=1.0">
 
   <!--[if lt IE 9]>
